@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/invictus04/A2Z-sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/invictus04/A2Z-sheet/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/invictus04/A2Z-sheet/tree/master/0242-valid-anagram) |
 # Math
 |  |
 | ------- |
@@ -54,4 +55,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/invictus04/A2Z-sheet/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/invictus04/A2Z-sheet/tree/master/0812-rotate-string) |
+# Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/invictus04/A2Z-sheet/tree/master/0242-valid-anagram) |
