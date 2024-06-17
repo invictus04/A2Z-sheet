@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/invictus04/A2Z-sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/invictus04/A2Z-sheet/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/0451-sort-characters-by-frequency) |
 # Math
 |  |
 | ------- |
@@ -56,8 +57,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/invictus04/A2Z-sheet/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/invictus04/A2Z-sheet/tree/master/0812-rotate-string) |
 # Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/invictus04/A2Z-sheet/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/0451-sort-characters-by-frequency) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/0451-sort-characters-by-frequency) |
+# Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/0451-sort-characters-by-frequency) |
+# Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/0451-sort-characters-by-frequency) |
