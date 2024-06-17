@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/invictus04/A2Z-sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/invictus04/A2Z-sheet/tree/master/0205-isomorphic-strings) |
 # Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/invictus04/A2Z-sheet/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/invictus04/A2Z-sheet/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/invictus04/A2Z-sheet/tree/master/2032-largest-odd-number-in-string) |
 # Stack
