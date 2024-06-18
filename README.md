@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/invictus04/A2Z-sheet/tree/master/0908-middle-of-the-linked-list) |
 # Hash Table
@@ -76,3 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/0451-sort-characters-by-frequency) |
+# Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
