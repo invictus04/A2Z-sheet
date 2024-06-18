@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/invictus04/A2Z-sheet/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/invictus04/A2Z-sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/invictus04/A2Z-sheet/tree/master/0205-isomorphic-strings) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/invictus04/A2Z-sheet/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/invictus04/A2Z-sheet/tree/master/2032-largest-odd-number-in-string) |
 # Recursion
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String Matching
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/invictus04/A2Z-sheet/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/invictus04/A2Z-sheet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/invictus04/A2Z-sheet/tree/master/0812-rotate-string) |
