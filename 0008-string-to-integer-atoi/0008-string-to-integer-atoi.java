@@ -1,23 +1,24 @@
 class Solution {
     public int myAtoi(String s) {
-        if(s == null) return 0;
-        long ans =0; 
-        int chk = +1;
-        int cnt =0;
-        s=s.trim();
-        if(s.length()==0) return 0;
-        if(s.charAt(0) == '-') chk = -1;
-        int max = Integer.MAX_VALUE;
-        int min = Integer.MIN_VALUE;
-        int i = (s.charAt(0) == '+' || s.charAt(0) == '-') ? 1:0;
-        while(i<s.length()) {
-            if(s.charAt(i) == ' ' || !Character.isDigit(s.charAt(i))) break; 
-            ans = ans*10 + s.charAt(i)-'0';
-            if(chk == -1 && -1*ans<min) return min;
-            if(chk == 1 && ans>max) return max;
-            i++;
+        s = s.trim(); 
+        if (s.isEmpty()) return 0; 
+        return atoiRecursive(s, 0, 1, 0); 
+    }
+
+    public int atoiRecursive(String s, int idx, int sign, long res) {
+        if (idx == s.length()) return (int) (sign * res); 
+        
+        char c = s.charAt(idx); 
+        
+        if (Character.isDigit(c)) {
+            res = (res * 10) + (c - '0');
+            if (res * sign > Integer.MAX_VALUE) return Integer.MAX_VALUE;
+            if (res * sign < Integer.MIN_VALUE) return Integer.MIN_VALUE;
+            return atoiRecursive(s, idx + 1, sign, res);
+        } else if (idx == 0 && (c == '+' || c == '-')) {
+            if (c == '-') sign = -1;
+            return atoiRecursive(s, idx + 1, sign, res);
         }
-        ans = ans*chk;
-        return (int)ans;
+        return (int) (sign * res);
     }
 }
