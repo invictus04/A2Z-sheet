@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0078-subsets](https://github.com/invictus04/A2Z-sheet/tree/master/0078-subsets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/invictus04/A2Z-sheet/tree/master/1675-magnetic-force-between-two-balls) |
 # Dynamic Programming
 |  |
@@ -109,7 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/invictus04/A2Z-sheet/tree/master/0078-subsets) |
 # Binary Search
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/invictus04/A2Z-sheet/tree/master/1675-magnetic-force-between-two-balls) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/invictus04/A2Z-sheet/tree/master/0078-subsets) |
