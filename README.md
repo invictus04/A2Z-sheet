@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/invictus04/A2Z-sheet/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/invictus04/A2Z-sheet/tree/master/0216-combination-sum-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/invictus04/A2Z-sheet/tree/master/1675-magnetic-force-between-two-balls) |
 # Dynamic Programming
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/invictus04/A2Z-sheet/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/invictus04/A2Z-sheet/tree/master/0216-combination-sum-iii) |
 # Binary Search
 |  |
 | ------- |
