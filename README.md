@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/invictus04/A2Z-sheet/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/invictus04/A2Z-sheet/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/invictus04/A2Z-sheet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/invictus04/A2Z-sheet/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/0451-sort-characters-by-frequency) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/invictus04/A2Z-sheet/tree/master/0131-palindrome-partitioning) |
 # Backtracking
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/invictus04/A2Z-sheet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/invictus04/A2Z-sheet/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/invictus04/A2Z-sheet/tree/master/0216-combination-sum-iii) |
 # Binary Search
 |  |
