@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/invictus04/A2Z-sheet/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/invictus04/A2Z-sheet/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/invictus04/A2Z-sheet/tree/master/0908-middle-of-the-linked-list) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/invictus04/A2Z-sheet/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/invictus04/A2Z-sheet/tree/master/0051-n-queens) |
