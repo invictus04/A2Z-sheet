@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/invictus04/A2Z-sheet/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/invictus04/A2Z-sheet/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/invictus04/A2Z-sheet/tree/master/0066-plus-one) |
 | [2032-largest-odd-number-in-string](https://github.com/invictus04/A2Z-sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/2050-count-good-numbers) |
 # Recursion
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/invictus04/A2Z-sheet/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/invictus04/A2Z-sheet/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/invictus04/A2Z-sheet/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/invictus04/A2Z-sheet/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0090-subsets-ii) |
