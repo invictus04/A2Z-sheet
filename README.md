@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/invictus04/A2Z-sheet/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/invictus04/A2Z-sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/invictus04/A2Z-sheet/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/invictus04/A2Z-sheet/tree/master/0908-middle-of-the-linked-list) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/invictus04/A2Z-sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/invictus04/A2Z-sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/invictus04/A2Z-sheet/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/invictus04/A2Z-sheet/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/invictus04/A2Z-sheet/tree/master/0131-palindrome-partitioning) |
