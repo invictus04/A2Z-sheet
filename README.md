@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/invictus04/A2Z-sheet/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/invictus04/A2Z-sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/invictus04/A2Z-sheet/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/invictus04/A2Z-sheet/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/invictus04/A2Z-sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/invictus04/A2Z-sheet/tree/master/0242-valid-anagram) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/invictus04/A2Z-sheet/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/invictus04/A2Z-sheet/tree/master/0139-word-break) |
 # String Matching
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/invictus04/A2Z-sheet/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/invictus04/A2Z-sheet/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/invictus04/A2Z-sheet/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/invictus04/A2Z-sheet/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/invictus04/A2Z-sheet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/invictus04/A2Z-sheet/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/0451-sort-characters-by-frequency) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/invictus04/A2Z-sheet/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/invictus04/A2Z-sheet/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/invictus04/A2Z-sheet/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/invictus04/A2Z-sheet/tree/master/0216-combination-sum-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/invictus04/A2Z-sheet/tree/master/1675-magnetic-force-between-two-balls) |
 # Dynamic Programming
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/invictus04/A2Z-sheet/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/invictus04/A2Z-sheet/tree/master/0139-word-break) |
 # Backtracking
 |  |
 | ------- |
@@ -154,3 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/invictus04/A2Z-sheet/tree/master/0079-word-search) |
+# Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/invictus04/A2Z-sheet/tree/master/0139-word-break) |
