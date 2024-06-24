@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/invictus04/A2Z-sheet/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/invictus04/A2Z-sheet/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/invictus04/A2Z-sheet/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/invictus04/A2Z-sheet/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/invictus04/A2Z-sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/2050-count-good-numbers) |
 # Recursion
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/invictus04/A2Z-sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/invictus04/A2Z-sheet/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/invictus04/A2Z-sheet/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/2050-count-good-numbers) |
 # String
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/invictus04/A2Z-sheet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/invictus04/A2Z-sheet/tree/master/0231-power-of-two) |
 # Matrix
 |  |
 | ------- |
