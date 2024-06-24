@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/invictus04/A2Z-sheet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/invictus04/A2Z-sheet/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/invictus04/A2Z-sheet/tree/master/0231-power-of-two) |
 # Matrix
 |  |
@@ -166,3 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/invictus04/A2Z-sheet/tree/master/0139-word-break) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/invictus04/A2Z-sheet/tree/master/0191-number-of-1-bits) |
