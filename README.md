@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/invictus04/A2Z-sheet/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/invictus04/A2Z-sheet/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/invictus04/A2Z-sheet/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/invictus04/A2Z-sheet/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/invictus04/A2Z-sheet/tree/master/0216-combination-sum-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/invictus04/A2Z-sheet/tree/master/1675-magnetic-force-between-two-balls) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/invictus04/A2Z-sheet/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/invictus04/A2Z-sheet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/invictus04/A2Z-sheet/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/invictus04/A2Z-sheet/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/invictus04/A2Z-sheet/tree/master/0231-power-of-two) |
 # Matrix
