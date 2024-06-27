@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/invictus04/A2Z-sheet/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/invictus04/A2Z-sheet/tree/master/0908-middle-of-the-linked-list) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/invictus04/A2Z-sheet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/invictus04/A2Z-sheet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/0451-sort-characters-by-frequency) |
 | [1675-magnetic-force-between-two-balls](https://github.com/invictus04/A2Z-sheet/tree/master/1675-magnetic-force-between-two-balls) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/invictus04/A2Z-sheet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/invictus04/A2Z-sheet/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/invictus04/A2Z-sheet/tree/master/0216-combination-sum-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/invictus04/A2Z-sheet/tree/master/1675-magnetic-force-between-two-balls) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/invictus04/A2Z-sheet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Dynamic Programming
 |  |
 | ------- |
