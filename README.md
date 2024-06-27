@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/invictus04/A2Z-sheet/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/invictus04/A2Z-sheet/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/invictus04/A2Z-sheet/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/invictus04/A2Z-sheet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/invictus04/A2Z-sheet/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/invictus04/A2Z-sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/2050-count-good-numbers) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/invictus04/A2Z-sheet/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/invictus04/A2Z-sheet/tree/master/0139-word-break) |
+| [0204-count-primes](https://github.com/invictus04/A2Z-sheet/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/invictus04/A2Z-sheet/tree/master/0216-combination-sum-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/invictus04/A2Z-sheet/tree/master/1675-magnetic-force-between-two-balls) |
 # Dynamic Programming
@@ -175,3 +177,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/invictus04/A2Z-sheet/tree/master/0191-number-of-1-bits) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/invictus04/A2Z-sheet/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/invictus04/A2Z-sheet/tree/master/0204-count-primes) |
