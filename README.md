@@ -206,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/invictus04/A2Z-sheet/tree/master/0496-next-greater-element-i) |
 | [1293-three-consecutive-odds](https://github.com/invictus04/A2Z-sheet/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/invictus04/A2Z-sheet/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/invictus04/A2Z-sheet/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/invictus04/A2Z-sheet/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
