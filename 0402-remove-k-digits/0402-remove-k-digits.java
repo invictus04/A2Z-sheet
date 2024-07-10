@@ -1,5 +1,6 @@
 class Solution {
     public String removeKdigits(String num, int k) {
+        if(num.length() == k) return "0";
         Stack<Character> st = new Stack<>();
         for(char i: num.toCharArray()) {
             while(!st.isEmpty() && k>0 && st.peek() > i){
