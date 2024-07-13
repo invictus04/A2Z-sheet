@@ -1,15 +1,13 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        int n = nums.length; 
-        int cnt=0;
-        for(int i=0; i<n; i++) {
-            int sum =0;
-            for(int j=i; j<n; j++) {
-                sum+=nums[j];
-                if(sum>goal) break;
-                if(sum == goal) cnt++;
-            }
+        int ans = 0, sum = 0, r = 0, n = nums.length;
+        HashMap<Integer, Integer> h = new HashMap<>();
+        while(r < n){
+            sum += nums[r++];
+            if(sum == goal) ans++;
+            if(h.get(sum - goal) != null) ans += h.get(sum - goal);
+            h.put(sum, h.getOrDefault(sum, 0) + 1);
         }
-        return cnt;
+        return ans;
     }
 }
