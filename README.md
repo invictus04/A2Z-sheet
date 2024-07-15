@@ -365,4 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/0145-binary-tree-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/invictus04/A2Z-sheet/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/invictus04/A2Z-sheet/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
