@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/invictus04/A2Z-sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/invictus04/A2Z-sheet/tree/master/2227-sum-of-subarray-ranges) |
+| [2502-sort-the-people](https://github.com/invictus04/A2Z-sheet/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/invictus04/A2Z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/invictus04/A2Z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2502-sort-the-people](https://github.com/invictus04/A2Z-sheet/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2502-sort-the-people](https://github.com/invictus04/A2Z-sheet/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/invictus04/A2Z-sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/invictus04/A2Z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2502-sort-the-people](https://github.com/invictus04/A2Z-sheet/tree/master/2502-sort-the-people) |
 | [3468-find-the-encrypted-string](https://github.com/invictus04/A2Z-sheet/tree/master/3468-find-the-encrypted-string) |
 ## Greedy
 |  |
