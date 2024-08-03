@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/invictus04/A2Z-sheet/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/invictus04/A2Z-sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2227-sum-of-subarray-ranges](https://github.com/invictus04/A2Z-sheet/tree/master/2227-sum-of-subarray-ranges) |
 | [2502-sort-the-people](https://github.com/invictus04/A2Z-sheet/tree/master/2502-sort-the-people) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/invictus04/A2Z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/invictus04/A2Z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/invictus04/A2Z-sheet/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/invictus04/A2Z-sheet/tree/master/2502-sort-the-people) |
 ## Stack
