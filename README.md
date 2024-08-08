@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/invictus04/A2Z-sheet/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/invictus04/A2Z-sheet/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/invictus04/A2Z-sheet/tree/master/1073-number-of-enclaves) |
 | [1293-three-consecutive-odds](https://github.com/invictus04/A2Z-sheet/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/invictus04/A2Z-sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/invictus04/A2Z-sheet/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/invictus04/A2Z-sheet/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/invictus04/A2Z-sheet/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/invictus04/A2Z-sheet/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/invictus04/A2Z-sheet/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/invictus04/A2Z-sheet/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/invictus04/A2Z-sheet/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/invictus04/A2Z-sheet/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/invictus04/A2Z-sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/invictus04/A2Z-sheet/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/invictus04/A2Z-sheet/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/invictus04/A2Z-sheet/tree/master/1073-number-of-enclaves) |
 ## Recursion
 |  |
 | ------- |
