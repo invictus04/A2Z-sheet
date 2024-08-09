@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/invictus04/A2Z-sheet/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/invictus04/A2Z-sheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/invictus04/A2Z-sheet/tree/master/0739-daily-temperatures) |
+| [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
 | [0943-sum-of-subarray-minimums](https://github.com/invictus04/A2Z-sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/invictus04/A2Z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/invictus04/A2Z-sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/invictus04/A2Z-sheet/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/invictus04/A2Z-sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
 | [0966-binary-subarrays-with-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/invictus04/A2Z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/invictus04/A2Z-sheet/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1370-count-number-of-nice-subarrays) |
 ## Counting
 |  |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/invictus04/A2Z-sheet/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/invictus04/A2Z-sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/invictus04/A2Z-sheet/tree/master/0733-flood-fill) |
+| [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/invictus04/A2Z-sheet/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/invictus04/A2Z-sheet/tree/master/1073-number-of-enclaves) |
 ## Recursion
