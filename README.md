@@ -615,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/invictus04/A2Z-sheet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/invictus04/A2Z-sheet/tree/master/0820-find-eventual-safe-states) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/invictus04/A2Z-sheet/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
