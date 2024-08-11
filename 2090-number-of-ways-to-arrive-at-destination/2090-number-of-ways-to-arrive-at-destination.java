@@ -1,6 +1,6 @@
 class Pair {
-    long first; // This will store the distance.
-    int second; // This will store the node index.
+    long first; 
+    int second; 
 
     Pair(long first, int second) {
         this.first = first;
