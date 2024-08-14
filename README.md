@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/invictus04/A2Z-sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/invictus04/A2Z-sheet/tree/master/0542-01-matrix) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/invictus04/A2Z-sheet/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/invictus04/A2Z-sheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/invictus04/A2Z-sheet/tree/master/0739-daily-temperatures) |
@@ -284,12 +285,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/invictus04/A2Z-sheet/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/invictus04/A2Z-sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/invictus04/A2Z-sheet/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/invictus04/A2Z-sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1046-max-consecutive-ones-iii](https://github.com/invictus04/A2Z-sheet/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/invictus04/A2Z-sheet/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/invictus04/A2Z-sheet/tree/master/1753-path-with-minimum-effort) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/invictus04/A2Z-sheet/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/invictus04/A2Z-sheet/tree/master/1615-range-sum-of-sorted-subarray-sums) |
