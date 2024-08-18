@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/invictus04/A2Z-sheet/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/invictus04/A2Z-sheet/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/invictus04/A2Z-sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/invictus04/A2Z-sheet/tree/master/0496-next-greater-element-i) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/invictus04/A2Z-sheet/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/invictus04/A2Z-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
 | [0542-01-matrix](https://github.com/invictus04/A2Z-sheet/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/invictus04/A2Z-sheet/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/invictus04/A2Z-sheet/tree/master/0943-sum-of-subarray-minimums) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/invictus04/A2Z-sheet/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/invictus04/A2Z-sheet/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/invictus04/A2Z-sheet/tree/master/0794-swim-in-rising-water) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/invictus04/A2Z-sheet/tree/master/0067-add-binary) |
+| [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1370-count-number-of-nice-subarrays) |
