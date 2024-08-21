@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/invictus04/A2Z-sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/invictus04/A2Z-sheet/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/invictus04/A2Z-sheet/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/invictus04/A2Z-sheet/tree/master/0721-accounts-merge) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/invictus04/A2Z-sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/invictus04/A2Z-sheet/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/invictus04/A2Z-sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/invictus04/A2Z-sheet/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/invictus04/A2Z-sheet/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/invictus04/A2Z-sheet/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/invictus04/A2Z-sheet/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/invictus04/A2Z-sheet/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/invictus04/A2Z-sheet/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
+| [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/invictus04/A2Z-sheet/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/invictus04/A2Z-sheet/tree/master/0794-swim-in-rising-water) |
@@ -472,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/invictus04/A2Z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
