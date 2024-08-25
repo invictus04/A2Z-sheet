@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/invictus04/A2Z-sheet/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/invictus04/A2Z-sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/invictus04/A2Z-sheet/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/invictus04/A2Z-sheet/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/invictus04/A2Z-sheet/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/invictus04/A2Z-sheet/tree/master/0744-network-delay-time) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/invictus04/A2Z-sheet/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/invictus04/A2Z-sheet/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/invictus04/A2Z-sheet/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -745,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
