@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/invictus04/A2Z-sheet/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/invictus04/A2Z-sheet/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/invictus04/A2Z-sheet/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/invictus04/A2Z-sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0503-next-greater-element-ii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/invictus04/A2Z-sheet/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/invictus04/A2Z-sheet/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/invictus04/A2Z-sheet/tree/master/0424-longest-repeating-character-replacement) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/invictus04/A2Z-sheet/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/invictus04/A2Z-sheet/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/invictus04/A2Z-sheet/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/invictus04/A2Z-sheet/tree/master/0744-network-delay-time) |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/invictus04/A2Z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -617,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/invictus04/A2Z-sheet/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -767,8 +773,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
