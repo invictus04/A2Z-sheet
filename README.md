@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/invictus04/A2Z-sheet/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/invictus04/A2Z-sheet/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/invictus04/A2Z-sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0088-merge-sorted-array) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/invictus04/A2Z-sheet/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/invictus04/A2Z-sheet/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/invictus04/A2Z-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/invictus04/A2Z-sheet/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
