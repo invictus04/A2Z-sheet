@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/invictus04/A2Z-sheet/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/invictus04/A2Z-sheet/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/invictus04/A2Z-sheet/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/invictus04/A2Z-sheet/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/invictus04/A2Z-sheet/tree/master/2227-sum-of-subarray-ranges) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/invictus04/A2Z-sheet/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/invictus04/A2Z-sheet/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/invictus04/A2Z-sheet/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/invictus04/A2Z-sheet/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/invictus04/A2Z-sheet/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/invictus04/A2Z-sheet/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/invictus04/A2Z-sheet/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/invictus04/A2Z-sheet/tree/master/2035-count-sub-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/invictus04/A2Z-sheet/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/invictus04/A2Z-sheet/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/invictus04/A2Z-sheet/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/invictus04/A2Z-sheet/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -739,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/invictus04/A2Z-sheet/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/invictus04/A2Z-sheet/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/invictus04/A2Z-sheet/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/invictus04/A2Z-sheet/tree/master/2035-count-sub-islands) |
 ## Recursion
 |  |
 | ------- |
