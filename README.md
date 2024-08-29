@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/invictus04/A2Z-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/invictus04/A2Z-sheet/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/invictus04/A2Z-sheet/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/invictus04/A2Z-sheet/tree/master/0217-contains-duplicate) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/invictus04/A2Z-sheet/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/invictus04/A2Z-sheet/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/invictus04/A2Z-sheet/tree/master/0624-maximum-distance-in-arrays) |
