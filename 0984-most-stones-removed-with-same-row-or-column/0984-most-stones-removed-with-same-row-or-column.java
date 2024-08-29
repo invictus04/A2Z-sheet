@@ -20,7 +20,7 @@ class Solution {
                 parent[pu] = pv;
             } else {
                 parent[pu] = pv;
-                rank[pv]++; // Correct rank increment
+                rank[pv]++;
             }
         }
     }
@@ -35,12 +35,12 @@ class Solution {
             maxcol = Math.max(maxcol, stones[i][1]);
         }
 
-        // Adjust the size of the parent and rank arrays
+        
         parent = new int[maxrow + maxcol + 2];
         rank = new int[maxrow + maxcol + 2];
 
         for (int i = 0; i < parent.length; i++) {
-            parent[i] = i; // Initialize each node as its own parent
+            parent[i] = i; 
         }
 
         HashMap<Integer, Integer> mpp = new HashMap<>();
