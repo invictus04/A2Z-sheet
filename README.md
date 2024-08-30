@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/invictus04/A2Z-sheet/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/invictus04/A2Z-sheet/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/invictus04/A2Z-sheet/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/invictus04/A2Z-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/invictus04/A2Z-sheet/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/invictus04/A2Z-sheet/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/0564-find-the-closest-palindrome) |
@@ -811,4 +813,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/invictus04/A2Z-sheet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
