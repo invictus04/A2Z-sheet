@@ -1,6 +1,7 @@
 class Solution {
     private int mini(List<List<Integer>> triangle, int[][] dp, int i, int j){
         if(i == triangle.size()-1) return triangle.get(triangle.size()-1).get(j);
+        if(dp[i][j] != -1) return dp[i][j];
         int down = triangle.get(i).get(j) + mini(triangle, dp,i+1,j);
         int diagonal = triangle.get(i).get(j) + mini(triangle, dp,i+1,j+1);
         return dp[i][j] = Math.min(down,diagonal);
@@ -22,8 +23,8 @@ class Solution {
                 dp[i][j] = Math.min(down,diagonal);
             }
         }
-        return dp[0][0];
-        // return mini(triangle, dp,0,0);
+        // return dp[0][0];
+        return mini(triangle, dp,0,0);
 
     }
 }
