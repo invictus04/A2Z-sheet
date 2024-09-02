@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/invictus04/A2Z-sheet/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/invictus04/A2Z-sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/invictus04/A2Z-sheet/tree/master/0999-regions-cut-by-slashes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/invictus04/A2Z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/invictus04/A2Z-sheet/tree/master/1036-rotting-oranges) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/invictus04/A2Z-sheet/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/invictus04/A2Z-sheet/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/invictus04/A2Z-sheet/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0967-minimum-falling-path-sum) |
 | [1240-stone-game-ii](https://github.com/invictus04/A2Z-sheet/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/invictus04/A2Z-sheet/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/invictus04/A2Z-sheet/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/invictus04/A2Z-sheet/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/invictus04/A2Z-sheet/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
+| [0967-minimum-falling-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/invictus04/A2Z-sheet/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/invictus04/A2Z-sheet/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/invictus04/A2Z-sheet/tree/master/1073-number-of-enclaves) |
