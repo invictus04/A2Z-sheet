@@ -1,47 +1,30 @@
 class Solution {
     public int minFallingPathSum(int[][] matrix) {
-        
-        int m = matrix.length;
-        int n = matrix[0].length;
-
-        if(m == 1 || n == 1) return matrix[0][0];
-
-        int dp[][] = new int[m][n];
-        for(int row[] : dp) {
-            Arrays.fill(row, Integer.MAX_VALUE);
+        int n = matrix.length;
+        int m = matrix[0].length;
+        int max = Integer.MAX_VALUE;
+        int[][] dp = new int[n][m];
+        for (int i = 0; i < m; i++) {
+            Arrays.fill(dp[i], (int) 1e9);
         }
-
-        int ans = Integer.MAX_VALUE;
-
-        for(int i = 0; i < matrix.length; i++) {
-            ans = Math.min(ans, isSafe(matrix, 0, i, dp));
+        for (int j = 0; j < m; j++) {
+            int temp = memo(matrix, dp, n - 1, j, n, m);
+            max = Math.min(max, temp);
         }
-
-        return ans;
+        return max;
     }
 
-    public int isSafe(int A[][], int row, int col, int dp[][]) {
+    public int memo(int[][] ar, int[][] dp, int i, int j, int n, int m) {
+        if (j < 0 || j >= m)
+            return (int) 1e9;
+        if (i == 0 && (j >= 0 && j < m))
+            return ar[0][j];
+        if (dp[i][j] != (int) 1e9)
+            return dp[i][j];
+        int right = memo(ar, dp, i - 1, j - 1, n, m) + ar[i][j];
+        int down = memo(ar, dp, i - 1, j, n, m) + ar[i][j];
+        int left = memo(ar, dp, i - 1, j + 1, n, m) + ar[i][j];
+        return dp[i][j] = Math.min(right, Math.min(down, left));
 
-        int m = A.length;
-        int n = A[0].length;
-
-        if(dp[row][col] != Integer.MAX_VALUE) return dp[row][col];
-
-        if(row == m - 1) 
-            return dp[row][col] = A[row][col];
-        
-        int left = Integer.MAX_VALUE, right = Integer.MAX_VALUE;
-
-        if(col > 0) 
-            left = isSafe(A, row + 1, col - 1, dp);
-
-        int straight = isSafe(A, row + 1, col, dp);
-
-        if(col < n - 1) 
-            right = isSafe(A, row + 1, col + 1, dp);
-        
-        dp[row][col] = Math.min(left, Math.min(straight, right)) + A[row][col];
-
-        return dp[row][col];
     }
 }
