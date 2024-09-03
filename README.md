@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/invictus04/A2Z-sheet/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/invictus04/A2Z-sheet/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/invictus04/A2Z-sheet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/invictus04/A2Z-sheet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/invictus04/A2Z-sheet/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
 |  |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/invictus04/A2Z-sheet/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/invictus04/A2Z-sheet/tree/master/0721-accounts-merge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/invictus04/A2Z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/invictus04/A2Z-sheet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/invictus04/A2Z-sheet/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/invictus04/A2Z-sheet/tree/master/2727-number-of-senior-citizens) |
