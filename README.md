@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/invictus04/A2Z-sheet/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/invictus04/A2Z-sheet/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/invictus04/A2Z-sheet/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/invictus04/A2Z-sheet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/invictus04/A2Z-sheet/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/invictus04/A2Z-sheet/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/invictus04/A2Z-sheet/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/0564-find-the-closest-palindrome) |
@@ -852,4 +854,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/invictus04/A2Z-sheet/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
