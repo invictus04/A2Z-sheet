@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/invictus04/A2Z-sheet/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/invictus04/A2Z-sheet/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/invictus04/A2Z-sheet/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/invictus04/A2Z-sheet/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/invictus04/A2Z-sheet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/invictus04/A2Z-sheet/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/invictus04/A2Z-sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0564-find-the-closest-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/invictus04/A2Z-sheet/tree/master/0592-fraction-addition-and-subtraction) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/invictus04/A2Z-sheet/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/invictus04/A2Z-sheet/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/invictus04/A2Z-sheet/tree/master/0650-2-keys-keyboard) |
