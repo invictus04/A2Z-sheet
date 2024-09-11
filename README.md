@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/invictus04/A2Z-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/invictus04/A2Z-sheet/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/invictus04/A2Z-sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/invictus04/A2Z-sheet/tree/master/0542-01-matrix) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/invictus04/A2Z-sheet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/invictus04/A2Z-sheet/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/invictus04/A2Z-sheet/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/invictus04/A2Z-sheet/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/invictus04/A2Z-sheet/tree/master/0664-strange-printer) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0494-target-sum) |
 ## Biconnected Component
 |  |
 | ------- |
