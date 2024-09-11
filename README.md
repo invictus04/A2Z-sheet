@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/invictus04/A2Z-sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/invictus04/A2Z-sheet/tree/master/0355-design-twitter) |
+| [0389-find-the-difference](https://github.com/invictus04/A2Z-sheet/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/invictus04/A2Z-sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/invictus04/A2Z-sheet/tree/master/0496-next-greater-element-i) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/invictus04/A2Z-sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/invictus04/A2Z-sheet/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/invictus04/A2Z-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/invictus04/A2Z-sheet/tree/master/0127-word-ladder) |
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0389-find-the-difference](https://github.com/invictus04/A2Z-sheet/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/invictus04/A2Z-sheet/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/invictus04/A2Z-sheet/tree/master/0424-longest-repeating-character-replacement) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/invictus04/A2Z-sheet/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/invictus04/A2Z-sheet/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/invictus04/A2Z-sheet/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/invictus04/A2Z-sheet/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/invictus04/A2Z-sheet/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/invictus04/A2Z-sheet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Breadth-First Search
