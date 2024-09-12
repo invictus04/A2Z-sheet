@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/invictus04/A2Z-sheet/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/invictus04/A2Z-sheet/tree/master/1753-path-with-minimum-effort) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/invictus04/A2Z-sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/invictus04/A2Z-sheet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/invictus04/A2Z-sheet/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/invictus04/A2Z-sheet/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/invictus04/A2Z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/invictus04/A2Z-sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/invictus04/A2Z-sheet/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/invictus04/A2Z-sheet/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/invictus04/A2Z-sheet/tree/master/0721-accounts-merge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/invictus04/A2Z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/invictus04/A2Z-sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/invictus04/A2Z-sheet/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/invictus04/A2Z-sheet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/invictus04/A2Z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/invictus04/A2Z-sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/invictus04/A2Z-sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/invictus04/A2Z-sheet/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/invictus04/A2Z-sheet/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/invictus04/A2Z-sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/invictus04/A2Z-sheet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Breadth-First Search
 |  |
