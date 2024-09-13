@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/invictus04/A2Z-sheet/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/invictus04/A2Z-sheet/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/invictus04/A2Z-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/invictus04/A2Z-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/invictus04/A2Z-sheet/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/invictus04/A2Z-sheet/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/invictus04/A2Z-sheet/tree/master/0127-word-ladder) |
