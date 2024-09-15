@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/invictus04/A2Z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/invictus04/A2Z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/invictus04/A2Z-sheet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/invictus04/A2Z-sheet/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/invictus04/A2Z-sheet/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/invictus04/A2Z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/invictus04/A2Z-sheet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/invictus04/A2Z-sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/invictus04/A2Z-sheet/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/invictus04/A2Z-sheet/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/invictus04/A2Z-sheet/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/invictus04/A2Z-sheet/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/invictus04/A2Z-sheet/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/invictus04/A2Z-sheet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/invictus04/A2Z-sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/invictus04/A2Z-sheet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/invictus04/A2Z-sheet/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/invictus04/A2Z-sheet/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/invictus04/A2Z-sheet/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/invictus04/A2Z-sheet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/invictus04/A2Z-sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/invictus04/A2Z-sheet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/invictus04/A2Z-sheet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
