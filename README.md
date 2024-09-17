@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/invictus04/A2Z-sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/invictus04/A2Z-sheet/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/invictus04/A2Z-sheet/tree/master/0355-design-twitter) |
 | [0725-split-linked-list-in-parts](https://github.com/invictus04/A2Z-sheet/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1484-linked-list-in-binary-tree) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
 ## Topological Sort
 |  |
