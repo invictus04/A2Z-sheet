@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/invictus04/A2Z-sheet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/invictus04/A2Z-sheet/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/invictus04/A2Z-sheet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/invictus04/A2Z-sheet/tree/master/0322-coin-change) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/invictus04/A2Z-sheet/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/invictus04/A2Z-sheet/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/invictus04/A2Z-sheet/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/invictus04/A2Z-sheet/tree/master/0389-find-the-difference) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/invictus04/A2Z-sheet/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/invictus04/A2Z-sheet/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/invictus04/A2Z-sheet/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
@@ -893,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0203-remove-linked-list-elements) |
+| [0241-different-ways-to-add-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
 ## Topological Sort
 |  |
@@ -953,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/invictus04/A2Z-sheet/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0241-different-ways-to-add-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
