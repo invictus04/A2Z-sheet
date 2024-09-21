@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/invictus04/A2Z-sheet/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/invictus04/A2Z-sheet/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/invictus04/A2Z-sheet/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/invictus04/A2Z-sheet/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1240-stone-game-ii](https://github.com/invictus04/A2Z-sheet/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/invictus04/A2Z-sheet/tree/master/1293-three-consecutive-odds) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/invictus04/A2Z-sheet/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/invictus04/A2Z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
+| [1129-longest-string-chain](https://github.com/invictus04/A2Z-sheet/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/invictus04/A2Z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/invictus04/A2Z-sheet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/invictus04/A2Z-sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1129-longest-string-chain](https://github.com/invictus04/A2Z-sheet/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/invictus04/A2Z-sheet/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/invictus04/A2Z-sheet/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/invictus04/A2Z-sheet/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/invictus04/A2Z-sheet/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/invictus04/A2Z-sheet/tree/master/1129-longest-string-chain) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/invictus04/A2Z-sheet/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/invictus04/A2Z-sheet/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/invictus04/A2Z-sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/invictus04/A2Z-sheet/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/invictus04/A2Z-sheet/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/invictus04/A2Z-sheet/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/invictus04/A2Z-sheet/tree/master/1250-longest-common-subsequence) |
@@ -510,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/invictus04/A2Z-sheet/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/invictus04/A2Z-sheet/tree/master/0721-accounts-merge) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/invictus04/A2Z-sheet/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1129-longest-string-chain](https://github.com/invictus04/A2Z-sheet/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/invictus04/A2Z-sheet/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/invictus04/A2Z-sheet/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
