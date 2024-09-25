@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/invictus04/A2Z-sheet/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/invictus04/A2Z-sheet/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/invictus04/A2Z-sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/invictus04/A2Z-sheet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/invictus04/A2Z-sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/invictus04/A2Z-sheet/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/invictus04/A2Z-sheet/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/invictus04/A2Z-sheet/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/invictus04/A2Z-sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/invictus04/A2Z-sheet/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/invictus04/A2Z-sheet/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/invictus04/A2Z-sheet/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/invictus04/A2Z-sheet/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/invictus04/A2Z-sheet/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/invictus04/A2Z-sheet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/invictus04/A2Z-sheet/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/invictus04/A2Z-sheet/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/invictus04/A2Z-sheet/tree/master/2035-count-sub-islands) |
