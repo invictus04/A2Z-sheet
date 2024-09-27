@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/invictus04/A2Z-sheet/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/invictus04/A2Z-sheet/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/invictus04/A2Z-sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0264-ugly-number-ii) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0132-palindrome-partitioning-ii) |
 | [0168-excel-sheet-column-title](https://github.com/invictus04/A2Z-sheet/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/invictus04/A2Z-sheet/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/invictus04/A2Z-sheet/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/invictus04/A2Z-sheet/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/invictus04/A2Z-sheet/tree/master/0303-range-sum-query-immutable) |
@@ -1035,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/invictus04/A2Z-sheet/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/invictus04/A2Z-sheet/tree/master/2755-extra-characters-in-a-string) |
