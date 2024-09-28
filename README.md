@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/invictus04/A2Z-sheet/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/invictus04/A2Z-sheet/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/invictus04/A2Z-sheet/tree/master/0854-making-a-large-island) |
+| [0859-design-circular-deque](https://github.com/invictus04/A2Z-sheet/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/invictus04/A2Z-sheet/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/invictus04/A2Z-sheet/tree/master/0890-lemonade-change) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/invictus04/A2Z-sheet/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/invictus04/A2Z-sheet/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
 | ------- |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/invictus04/A2Z-sheet/tree/master/0355-design-twitter) |
 | [0725-split-linked-list-in-parts](https://github.com/invictus04/A2Z-sheet/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/invictus04/A2Z-sheet/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1484-linked-list-in-binary-tree) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/invictus04/A2Z-sheet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/invictus04/A2Z-sheet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/invictus04/A2Z-sheet/tree/master/0355-design-twitter) |
 | [0731-my-calendar-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/invictus04/A2Z-sheet/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
 | ------- |
