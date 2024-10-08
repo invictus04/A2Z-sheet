@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/invictus04/A2Z-sheet/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/invictus04/A2Z-sheet/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/invictus04/A2Z-sheet/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/invictus04/A2Z-sheet/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/invictus04/A2Z-sheet/tree/master/0592-fraction-addition-and-subtraction) |
