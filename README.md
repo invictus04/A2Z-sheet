@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/invictus04/A2Z-sheet/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/invictus04/A2Z-sheet/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/invictus04/A2Z-sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/invictus04/A2Z-sheet/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0088-merge-sorted-array) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/invictus04/A2Z-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/invictus04/A2Z-sheet/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/invictus04/A2Z-sheet/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/invictus04/A2Z-sheet/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/invictus04/A2Z-sheet/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/invictus04/A2Z-sheet/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/invictus04/A2Z-sheet/tree/master/0542-01-matrix) |
