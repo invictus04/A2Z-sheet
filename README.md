@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/invictus04/A2Z-sheet/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/invictus04/A2Z-sheet/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/invictus04/A2Z-sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/invictus04/A2Z-sheet/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0088-merge-sorted-array) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/invictus04/A2Z-sheet/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/invictus04/A2Z-sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/invictus04/A2Z-sheet/tree/master/0202-happy-number) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/invictus04/A2Z-sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/invictus04/A2Z-sheet/tree/master/0179-largest-number) |
