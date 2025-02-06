@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/invictus04/A2Z-sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/invictus04/A2Z-sheet/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/invictus04/A2Z-sheet/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/invictus04/A2Z-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/invictus04/A2Z-sheet/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/invictus04/A2Z-sheet/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/invictus04/A2Z-sheet/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/invictus04/A2Z-sheet/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/invictus04/A2Z-sheet/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
