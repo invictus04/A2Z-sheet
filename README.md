@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/invictus04/A2Z-sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/invictus04/A2Z-sheet/tree/master/2227-sum-of-subarray-ranges) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/invictus04/A2Z-sheet/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/invictus04/A2Z-sheet/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/invictus04/A2Z-sheet/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/invictus04/A2Z-sheet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/invictus04/A2Z-sheet/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2502-sort-the-people](https://github.com/invictus04/A2Z-sheet/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/invictus04/A2Z-sheet/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/invictus04/A2Z-sheet/tree/master/2755-extra-characters-in-a-string) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/invictus04/A2Z-sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/invictus04/A2Z-sheet/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/invictus04/A2Z-sheet/tree/master/0890-lemonade-change) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/invictus04/A2Z-sheet/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
@@ -1037,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/invictus04/A2Z-sheet/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/invictus04/A2Z-sheet/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/invictus04/A2Z-sheet/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/invictus04/A2Z-sheet/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Biconnected Component
 |  |
