@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/invictus04/A2Z-sheet/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/invictus04/A2Z-sheet/tree/master/0890-lemonade-change) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/invictus04/A2Z-sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0967-minimum-falling-path-sum) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/invictus04/A2Z-sheet/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/invictus04/A2Z-sheet/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/invictus04/A2Z-sheet/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/invictus04/A2Z-sheet/tree/master/0999-regions-cut-by-slashes) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -882,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/invictus04/A2Z-sheet/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0347-top-k-frequent-elements) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
