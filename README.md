@@ -1042,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/invictus04/A2Z-sheet/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/invictus04/A2Z-sheet/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/invictus04/A2Z-sheet/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/invictus04/A2Z-sheet/tree/master/0584-find-customer-referee) |
 ## Strongly Connected Component
 |  |
 | ------- |
