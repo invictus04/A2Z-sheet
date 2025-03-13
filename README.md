@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/invictus04/A2Z-sheet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/invictus04/A2Z-sheet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3643-zero-array-transformation-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/invictus04/A2Z-sheet/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/invictus04/A2Z-sheet/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/invictus04/A2Z-sheet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3643-zero-array-transformation-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/invictus04/A2Z-sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/invictus04/A2Z-sheet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/invictus04/A2Z-sheet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3643-zero-array-transformation-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
