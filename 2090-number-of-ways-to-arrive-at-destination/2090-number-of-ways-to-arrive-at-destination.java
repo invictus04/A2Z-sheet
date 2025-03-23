@@ -1,58 +1,51 @@
-class Pair {
-    long first; 
-    int second; 
-
-    Pair(long first, int second) {
-        this.first = first;
-        this.second = second;
-    }
-}
-
 class Solution {
     public int countPaths(int n, int[][] roads) {
-        ArrayList<ArrayList<Pair>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>());
-        }
-        int m = roads.length;
-        for (int i = 0; i < m; i++) {
-            adj.get(roads[i][0]).add(new Pair(roads[i][2], roads[i][1]));
-            adj.get(roads[i][1]).add(new Pair(roads[i][2], roads[i][0]));
+        final int MOD = 1000000007;
+
+        List<List<int[]>> graph = new ArrayList<>();
+        for(int i=0; i<n; i++){
+            graph.add(new ArrayList<>());
         }
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>((x, y) -> Long.compare(x.first, y.first));
-        long[] dis = new long[n];
-        int[] ways = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            dis[i] = Long.MAX_VALUE;
-            ways[i] = 0;
+        for(int[] road: roads){
+            int startNode = road[0], endNode = road[1], travelTime = road[2];
+            graph.get(startNode).add(new int[]{endNode, travelTime});
+            graph.get(endNode).add(new int[] {startNode,travelTime});
         }
 
-        pq.add(new Pair(0, 0));
-        dis[0] = 0;
-        ways[0] = 1;
+        PriorityQueue<long[]> minHeap = new PriorityQueue<>(
+            Comparator.comparingLong(a -> a[0])
+        );
 
-        int mod = (int) (1e9 + 7);
-        while (!pq.isEmpty()) {
-            Pair current = pq.poll();
-            long dist = current.first;
-            int node = current.second;
+        long[] shortestTime = new long[n];
+        Arrays.fill(shortestTime, Long.MAX_VALUE);
 
-            for (Pair it : adj.get(node)) {
-                int adjNode = it.second;
-                long wt = it.first;
+        int[] pathCount = new int[n];
 
-                if (dist + wt < dis[adjNode]) {
-                    dis[adjNode] = dist + wt;
-                    pq.add(new Pair(dis[adjNode], adjNode));
-                    ways[adjNode] = ways[node];
-                } else if (dist + wt == dis[adjNode]) {
-                    ways[adjNode] = (ways[adjNode] + ways[node]) % mod;
+        shortestTime[0] = 0;
+        pathCount[0] = 1;
+
+        minHeap.offer(new long[]{0,0});
+
+        while(!minHeap.isEmpty()){
+            long[] top = minHeap.poll();
+            long currTime = top[0];
+            int currNode = (int) top[1];
+
+            if(currTime > shortestTime[currNode]) continue;
+
+            for(int[] neighbour: graph.get(currNode)){
+                int neighborNode = neighbour[0], roadTime = neighbour[1];
+
+                if(currTime + roadTime < shortestTime[neighborNode]){
+                    shortestTime[neighborNode] = currTime + roadTime;
+                    pathCount[neighborNode] = pathCount[currNode];
+                    minHeap.offer(new long[] {shortestTime[neighborNode], neighborNode});
+                } else if(currTime + roadTime == shortestTime[neighborNode]){
+                    pathCount[neighborNode] = (pathCount[neighborNode] + pathCount[currNode]) % MOD;
                 }
             }
         }
-
-        return ways[n - 1] % mod;
+        return pathCount[n-1];
     }
 }
