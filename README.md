@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/invictus04/A2Z-sheet/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/invictus04/A2Z-sheet/tree/master/2755-extra-characters-in-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/invictus04/A2Z-sheet/tree/master/3001-apply-operations-to-maximize-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/invictus04/A2Z-sheet/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/invictus04/A2Z-sheet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/invictus04/A2Z-sheet/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
