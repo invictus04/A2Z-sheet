@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/invictus04/A2Z-sheet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/invictus04/A2Z-sheet/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/invictus04/A2Z-sheet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/invictus04/A2Z-sheet/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/invictus04/A2Z-sheet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting
 |  |
@@ -1179,4 +1180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0731-my-calendar-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/invictus04/A2Z-sheet/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
