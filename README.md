@@ -759,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/invictus04/A2Z-sheet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2050-count-good-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/2050-count-good-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/invictus04/A2Z-sheet/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/invictus04/A2Z-sheet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/invictus04/A2Z-sheet/tree/master/2998-count-symmetric-integers) |
@@ -1060,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0203-remove-linked-list-elements) |
 | [0241-different-ways-to-add-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/invictus04/A2Z-sheet/tree/master/0273-integer-to-english-words) |
+| [2050-count-good-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/2050-count-good-numbers) |
 ## Topological Sort
 |  |
 | ------- |
