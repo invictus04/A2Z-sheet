@@ -1084,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/invictus04/A2Z-sheet/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/invictus04/A2Z-sheet/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1625-group-sold-products-by-the-date](https://github.com/invictus04/A2Z-sheet/tree/master/1625-group-sold-products-by-the-date) |
+| [1664-find-users-with-valid-e-mails](https://github.com/invictus04/A2Z-sheet/tree/master/1664-find-users-with-valid-e-mails) |
 ## Strongly Connected Component
 |  |
 | ------- |
