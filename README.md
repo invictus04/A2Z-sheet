@@ -1083,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/invictus04/A2Z-sheet/tree/master/0584-find-customer-referee) |
 | [0627-swap-salary](https://github.com/invictus04/A2Z-sheet/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/invictus04/A2Z-sheet/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1625-group-sold-products-by-the-date](https://github.com/invictus04/A2Z-sheet/tree/master/1625-group-sold-products-by-the-date) |
 ## Strongly Connected Component
 |  |
 | ------- |
