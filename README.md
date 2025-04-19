@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/invictus04/A2Z-sheet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/invictus04/A2Z-sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/invictus04/A2Z-sheet/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/invictus04/A2Z-sheet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/invictus04/A2Z-sheet/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/invictus04/A2Z-sheet/tree/master/2755-extra-characters-in-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/invictus04/A2Z-sheet/tree/master/3001-apply-operations-to-maximize-score) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/invictus04/A2Z-sheet/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/invictus04/A2Z-sheet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/invictus04/A2Z-sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/invictus04/A2Z-sheet/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/invictus04/A2Z-sheet/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/invictus04/A2Z-sheet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2280-count-good-triplets-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/invictus04/A2Z-sheet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/invictus04/A2Z-sheet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/invictus04/A2Z-sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/invictus04/A2Z-sheet/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/invictus04/A2Z-sheet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/invictus04/A2Z-sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
