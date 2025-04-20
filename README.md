@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/invictus04/A2Z-sheet/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/invictus04/A2Z-sheet/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/invictus04/A2Z-sheet/tree/master/0794-swim-in-rising-water) |
+| [0797-rabbits-in-forest](https://github.com/invictus04/A2Z-sheet/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/invictus04/A2Z-sheet/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/invictus04/A2Z-sheet/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/invictus04/A2Z-sheet/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/invictus04/A2Z-sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/invictus04/A2Z-sheet/tree/master/0721-accounts-merge) |
+| [0797-rabbits-in-forest](https://github.com/invictus04/A2Z-sheet/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/invictus04/A2Z-sheet/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/invictus04/A2Z-sheet/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/invictus04/A2Z-sheet/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/invictus04/A2Z-sheet/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/invictus04/A2Z-sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0797-rabbits-in-forest](https://github.com/invictus04/A2Z-sheet/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/invictus04/A2Z-sheet/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/invictus04/A2Z-sheet/tree/master/0890-lemonade-change) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/invictus04/A2Z-sheet/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/invictus04/A2Z-sheet/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/invictus04/A2Z-sheet/tree/master/0650-2-keys-keyboard) |
+| [0797-rabbits-in-forest](https://github.com/invictus04/A2Z-sheet/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/invictus04/A2Z-sheet/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/invictus04/A2Z-sheet/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/1370-count-number-of-nice-subarrays) |
