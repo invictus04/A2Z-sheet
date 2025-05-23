@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/invictus04/A2Z-sheet/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/invictus04/A2Z-sheet/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/invictus04/A2Z-sheet/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/invictus04/A2Z-sheet/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/invictus04/A2Z-sheet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/invictus04/A2Z-sheet/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/invictus04/A2Z-sheet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/invictus04/A2Z-sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/invictus04/A2Z-sheet/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Stack
 |  |
 | ------- |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/invictus04/A2Z-sheet/tree/master/2755-extra-characters-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/invictus04/A2Z-sheet/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/invictus04/A2Z-sheet/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/invictus04/A2Z-sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Simulation
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/invictus04/A2Z-sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/invictus04/A2Z-sheet/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/invictus04/A2Z-sheet/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Queue
 |  |
 | ------- |
@@ -865,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1484-linked-list-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/invictus04/A2Z-sheet/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/invictus04/A2Z-sheet/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -980,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/invictus04/A2Z-sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/invictus04/A2Z-sheet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/invictus04/A2Z-sheet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/invictus04/A2Z-sheet/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/invictus04/A2Z-sheet/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Breadth-First Search
 |  |
