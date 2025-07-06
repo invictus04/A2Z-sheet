@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/invictus04/A2Z-sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/invictus04/A2Z-sheet/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1923-sentence-similarity-iii](https://github.com/invictus04/A2Z-sheet/tree/master/1923-sentence-similarity-iii) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/invictus04/A2Z-sheet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/invictus04/A2Z-sheet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/invictus04/A2Z-sheet/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/invictus04/A2Z-sheet/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/invictus04/A2Z-sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/invictus04/A2Z-sheet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/invictus04/A2Z-sheet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/invictus04/A2Z-sheet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/invictus04/A2Z-sheet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/invictus04/A2Z-sheet/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/invictus04/A2Z-sheet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Doubly-Linked List
 |  |
 | ------- |
