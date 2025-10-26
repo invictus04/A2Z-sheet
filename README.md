@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/invictus04/A2Z-sheet/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/invictus04/A2Z-sheet/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/invictus04/A2Z-sheet/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/invictus04/A2Z-sheet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/invictus04/A2Z-sheet/tree/master/2227-sum-of-subarray-ranges) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/invictus04/A2Z-sheet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/invictus04/A2Z-sheet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/invictus04/A2Z-sheet/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/invictus04/A2Z-sheet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/invictus04/A2Z-sheet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/invictus04/A2Z-sheet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/invictus04/A2Z-sheet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/invictus04/A2Z-sheet/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2169-simple-bank-system](https://github.com/invictus04/A2Z-sheet/tree/master/2169-simple-bank-system) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/invictus04/A2Z-sheet/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/invictus04/A2Z-sheet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/invictus04/A2Z-sheet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/invictus04/A2Z-sheet/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/invictus04/A2Z-sheet/tree/master/2169-simple-bank-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
