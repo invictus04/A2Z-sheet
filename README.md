@@ -799,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/invictus04/A2Z-sheet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/invictus04/A2Z-sheet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2249-count-the-hidden-sequences](https://github.com/invictus04/A2Z-sheet/tree/master/2249-count-the-hidden-sequences) |
+| [2485-find-the-pivot-integer](https://github.com/invictus04/A2Z-sheet/tree/master/2485-find-the-pivot-integer) |
 | [2915-count-of-interesting-subarrays](https://github.com/invictus04/A2Z-sheet/tree/master/2915-count-of-interesting-subarrays) |
 | [3618-find-the-original-typed-string-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3643-zero-array-transformation-ii) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/invictus04/A2Z-sheet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2050-count-good-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/2050-count-good-numbers) |
+| [2485-find-the-pivot-integer](https://github.com/invictus04/A2Z-sheet/tree/master/2485-find-the-pivot-integer) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/invictus04/A2Z-sheet/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/invictus04/A2Z-sheet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/invictus04/A2Z-sheet/tree/master/2998-count-symmetric-integers) |
