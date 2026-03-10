@@ -1170,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/invictus04/A2Z-sheet/tree/master/1587-bank-account-summary-ii) |
 | [1625-group-sold-products-by-the-date](https://github.com/invictus04/A2Z-sheet/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/invictus04/A2Z-sheet/tree/master/1664-find-users-with-valid-e-mails) |
+| [1693-daily-leads-and-partners](https://github.com/invictus04/A2Z-sheet/tree/master/1693-daily-leads-and-partners) |
 ## Strongly Connected Component
 |  |
 | ------- |
