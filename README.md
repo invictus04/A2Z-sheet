@@ -1163,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/invictus04/A2Z-sheet/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/invictus04/A2Z-sheet/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/invictus04/A2Z-sheet/tree/master/0182-duplicate-emails) |
+| [0196-delete-duplicate-emails](https://github.com/invictus04/A2Z-sheet/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/invictus04/A2Z-sheet/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/invictus04/A2Z-sheet/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/invictus04/A2Z-sheet/tree/master/0584-find-customer-referee) |
