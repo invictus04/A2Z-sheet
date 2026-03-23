@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/invictus04/A2Z-sheet/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/invictus04/A2Z-sheet/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/invictus04/A2Z-sheet/tree/master/0042-trapping-rain-water) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/invictus04/A2Z-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/invictus04/A2Z-sheet/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/invictus04/A2Z-sheet/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/invictus04/A2Z-sheet/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/invictus04/A2Z-sheet/tree/master/0067-add-binary) |
@@ -1277,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/invictus04/A2Z-sheet/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/invictus04/A2Z-sheet/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/invictus04/A2Z-sheet/tree/master/0440-k-th-smallest-in-lexicographical-order) |
