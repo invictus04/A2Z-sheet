@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/invictus04/A2Z-sheet/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/invictus04/A2Z-sheet/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/invictus04/A2Z-sheet/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/invictus04/A2Z-sheet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/invictus04/A2Z-sheet/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/invictus04/A2Z-sheet/tree/master/0084-largest-rectangle-in-histogram) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/invictus04/A2Z-sheet/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/invictus04/A2Z-sheet/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/invictus04/A2Z-sheet/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/invictus04/A2Z-sheet/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/invictus04/A2Z-sheet/tree/master/0592-fraction-addition-and-subtraction) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/invictus04/A2Z-sheet/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/invictus04/A2Z-sheet/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/invictus04/A2Z-sheet/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/invictus04/A2Z-sheet/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/invictus04/A2Z-sheet/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/invictus04/A2Z-sheet/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/0125-valid-palindrome) |
