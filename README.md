@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/invictus04/A2Z-sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/invictus04/A2Z-sheet/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/invictus04/A2Z-sheet/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/invictus04/A2Z-sheet/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/invictus04/A2Z-sheet/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/invictus04/A2Z-sheet/tree/master/0295-find-median-from-data-stream) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/invictus04/A2Z-sheet/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/invictus04/A2Z-sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/invictus04/A2Z-sheet/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/invictus04/A2Z-sheet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/invictus04/A2Z-sheet/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/invictus04/A2Z-sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/invictus04/A2Z-sheet/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/invictus04/A2Z-sheet/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/invictus04/A2Z-sheet/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/invictus04/A2Z-sheet/tree/master/0355-design-twitter) |
 | [0725-split-linked-list-in-parts](https://github.com/invictus04/A2Z-sheet/tree/master/0725-split-linked-list-in-parts) |
@@ -1008,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/invictus04/A2Z-sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/invictus04/A2Z-sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/invictus04/A2Z-sheet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/invictus04/A2Z-sheet/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/invictus04/A2Z-sheet/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1238,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/invictus04/A2Z-sheet/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/invictus04/A2Z-sheet/tree/master/0148-sort-list) |
 | [2280-count-good-triplets-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
 |  |
