@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/invictus04/A2Z-sheet/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/invictus04/A2Z-sheet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/invictus04/A2Z-sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-zero-array-transformation-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/invictus04/A2Z-sheet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/invictus04/A2Z-sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/invictus04/A2Z-sheet/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/invictus04/A2Z-sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/invictus04/A2Z-sheet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2280-count-good-triplets-in-an-array](https://github.com/invictus04/A2Z-sheet/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/invictus04/A2Z-sheet/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/invictus04/A2Z-sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-zero-array-transformation-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/invictus04/A2Z-sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/invictus04/A2Z-sheet/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/invictus04/A2Z-sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
@@ -719,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/invictus04/A2Z-sheet/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/invictus04/A2Z-sheet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/invictus04/A2Z-sheet/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/invictus04/A2Z-sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Queue
 |  |
 | ------- |
