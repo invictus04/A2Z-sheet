@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/invictus04/A2Z-sheet/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/invictus04/A2Z-sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/invictus04/A2Z-sheet/tree/master/0085-maximal-rectangle) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/invictus04/A2Z-sheet/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/invictus04/A2Z-sheet/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/invictus04/A2Z-sheet/tree/master/0053-maximum-subarray) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/invictus04/A2Z-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/invictus04/A2Z-sheet/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/invictus04/A2Z-sheet/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/invictus04/A2Z-sheet/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/invictus04/A2Z-sheet/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/invictus04/A2Z-sheet/tree/master/0067-add-binary) |
